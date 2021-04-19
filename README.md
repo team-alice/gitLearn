@@ -6,4 +6,6 @@ This is 1st line.
 
 This is 2nd line.
 
-## Alice's new feature
+## Alice's new feature is perfect
+
+## Bob's new feature is also perfect
